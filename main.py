@@ -39,3 +39,4 @@ setup_theme_button.click()
 # ✅ Wait and quit browser
 time.sleep(5)
 driver.quit()
+
